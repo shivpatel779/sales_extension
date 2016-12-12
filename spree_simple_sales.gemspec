@@ -3,8 +3,9 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_simple_sales'
   s.version     = '3.1.0'
-  s.summary     = 'TODO: Add gem summary here'
-  s.description = 'TODO: Add (optional) gem description here'
+  s.authors     = ['martin']
+  s.summary     = 'Add gem summary here'
+  s.description = 'Add (optional) gem description here'
   s.required_ruby_version = '>= 2.1.0'
 
   # s.author    = 'You'
